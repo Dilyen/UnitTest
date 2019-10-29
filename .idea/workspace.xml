@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07e6f232-0a55-45ee-988c-1881f7b00156" name="Default Changelist" comment="fix braces">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="07e6f232-0a55-45ee-988c-1881f7b00156" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Maths/io/turntabl/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/turntabl/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/turntabl/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/turntabl/NumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/turntabl/NumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Maths/io/turntabl/NumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Maths/io/turntabl/NumbersTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572367282628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix braces">
+      <created>1572371254750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572371254750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
