@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07e6f232-0a55-45ee-988c-1881f7b00156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Maths/META-INF/Maths.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Maths/io/turntabl/Numbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Maths/io/turntabl/NumbersTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/turntabl/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/turntabl/NumbersTest.java" afterDir="false" />
+    <list default="true" id="07e6f232-0a55-45ee-988c-1881f7b00156" name="Default Changelist" comment="fix braces">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Maths/io/turntabl/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/turntabl/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/turntabl/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/turntabl/NumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/turntabl/NumbersTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +33,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -64,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NumbersTest">
+  <component name="RunManager" selected="JUnit.NumbersTest.IsANegativeNumberPositive">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="io.turntablUnit.Main" />
       <module name="Maths" />
@@ -147,10 +141,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumbersTest.IsANegativeNumberPositive" />
         <item itemvalue="JUnit.NumbersTest" />
         <item itemvalue="JUnit.NumbersTest.IsAPositiveNumberNegative" />
         <item itemvalue="JUnit.NumbersTest.TwoPositiveNumbers" />
-        <item itemvalue="JUnit.NumbersTest.IsANegativeNumberPositive" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -166,6 +160,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572360182213</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1572367282628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572367282628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,15 +181,9 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/io/turntabl/NumbersTest.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="fix braces" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix braces" />
   </component>
 </project>
