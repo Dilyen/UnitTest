@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e6f232-0a55-45ee-988c-1881f7b00156" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Maths/io/turntabl/NumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Maths/io/turntabl/NumbersTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/turntabl/NumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/turntabl/NumbersTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572371933108</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="src file">
+      <created>1572374690257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572374690257</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +210,7 @@
     <MESSAGE value="fix braces" />
     <MESSAGE value="worked on built xml and yml" />
     <MESSAGE value="Nothing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nothing" />
+    <MESSAGE value="src file" />
+    <option name="LAST_COMMIT_MESSAGE" value="src file" />
   </component>
 </project>
