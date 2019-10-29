@@ -31,18 +31,18 @@ public class Numbers {
         if (year % 4 == 0) {
             if (year % 100 == 0) {
                 if (year % 4 == 0) {
-                    System.out.println("....leap year....");
+                    System.out.println("leap year");
                     return true;
                 } else {
-                    System.out.println("....not leap year....");
+                    System.out.println("not leap year");
                     return false;
                 }
             } else {
-                System.out.println("....leap year....");
+                System.out.println("leap year");
                 return false;
             }
         } else {
-            System.out.println("....not leap year....");
+            System.out.println("not leap year");
             return false;
         }
     }
