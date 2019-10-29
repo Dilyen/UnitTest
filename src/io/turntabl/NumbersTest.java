@@ -30,7 +30,7 @@ class NumbersTest {
     }
 
     @Test
-    void testIsEvenAndGreaterThanZero() {
+    public void testIsEvenAndGreaterThanZero() {
         boolean result = Numbers.isEvenAndGreaterThanZero(4);
         assertTrue(result);
     }
@@ -38,19 +38,19 @@ class NumbersTest {
 
     // leap year....testing for all failures
     @Test
-    void isALeapYearNotDivisibleBy4() {
+    public void isALeapYearNotDivisibleBy4() {
         boolean result = Numbers.isALeapYear(102);
         assertFalse(result);
     }
 
     @Test
-    void isALeapYearCenturyYearButNotDivisibleBy4() {
+    public void isALeapYearCenturyYearButNotDivisibleBy4() {
         boolean result = Numbers.isALeapYear(250);
         assertFalse(result);
     }
 
     @Test
-    void isALeapYear() {
+    public void isALeapYear() {
         boolean result = Numbers.isALeapYear(400);
         assertTrue(result);
     }
